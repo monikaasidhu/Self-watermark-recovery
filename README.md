@@ -83,7 +83,7 @@ l1_loss(cycle_output, original_img))
 
 ---
 **Clone the repository**
-git clone https://github.com/Himanshu040604/Self-watermark-recovery-scheme
+git clone https://github.com/monikaasidhu/Self-watermark-recovery
 
 Create and activate a conda environment
 
@@ -114,18 +114,3 @@ Optional
 2)Visual C++ Build Tools (Windows Only)
 
 Some Python packages require C++ build tools. Install from the official Microsoft website if needed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
